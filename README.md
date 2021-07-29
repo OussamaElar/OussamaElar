@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oussama
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN 
+- 🌱 I’m currently learning Ruby & MERN 
 
 
 <!---
