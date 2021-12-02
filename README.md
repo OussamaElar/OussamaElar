@@ -1,4 +1,4 @@
-# Hi, My name is Oussama I'm a Full Stack Engineer!!
+# Hi, My name is Oussama
 
 - 💻 I'm a Full Stack Engineer
 - 👯 I’m looking to collaborate with other developers 
