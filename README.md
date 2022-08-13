@@ -2,14 +2,13 @@
 
 - 💻 I'm an iOS developer 
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+
 
 <hr />
 
 ## Connect with me:
 
 [<img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>](https://oussamaelar.github.io/portfolio_oussama/)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/oussama-el-arabi-b67b1686/) 
 [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>](https://twitter.com/Oussama58025209)
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>](https://www.instagram.com/oussama.elarabi/)
 
