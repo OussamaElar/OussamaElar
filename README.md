@@ -17,8 +17,9 @@
 
 ## Languages and Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" hight='96' width='96'/>
+
 <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" hight='96' width='96'/>
 <img src="https://img.icons8.com/color/96/000000/heroku.png"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" hight='96' width='96'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" hight='96' width='96'/>
