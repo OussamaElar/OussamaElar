@@ -1,6 +1,6 @@
 # Hi, My name is Oussama
 
-- 💻 I'm a Full Stack Engineer
+- 💻 I'm an iOS developer 
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
@@ -26,7 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" hight='96' width='96'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" hight='96' width='96'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" hight='96' width='96'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/swift-original-wordmark.svg" hight='96' width='96'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/swift-plain-wordmark.svg" hight='96' width='96'/>
 
 
 <hr />
